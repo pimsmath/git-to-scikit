@@ -1,0 +1,9 @@
+{
+  "Overview":"about.md",
+  "Jupyter and Python": "2016-07-20-notes.md",
+  "Git and Github": "2016-07-27-notes.md",
+  "Bash, Scrape, Plot": "2016-08-03-notes.md",
+  "SciPy": "2016-08-10-notes.md",
+  "Tour of SciKit-Learn": "2016-08-17-notes.md",
+  "Basic Machine Learning": "2016-08-24-notes.md"
+}
